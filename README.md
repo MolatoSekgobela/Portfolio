@@ -5,6 +5,10 @@ Self Taught Python Developer aspiring to be a Data Scientist in the field of Dat
 
 **Department of Defence (Defence Intelligence)** <br>
 Role: ***System Administrator/Technical Advisor*** 2017 - current<br>
+Secondment with Parsec/Etion create (Secure Communication Project)<br>
+Web2py User Interface Design (Python, HTML, JSON)
+Network Encryption (Custom VPN) & Data Encryption (PKI)
+Server Configuration<br>
 Network Security/Administration, <br>
 Technical Advisor,<br>
 System Analysis,<br>
@@ -14,8 +18,9 @@ Signal Processing,<br>
 Radar,<br>
 Cyber Security<br>
 
+
 **Blackstar Communications** <br> 
-Role: ***Technical (intern) *** February 2015 – June 2015<br>
+Role: ***Technical (intern) *** March 2016 – December 2016<br>
 Website management<br>
 Database administration<br>
 Desktop Support<br>
