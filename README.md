@@ -31,7 +31,7 @@ Course in ICT Security  (Certificate) <br>
 **UNISA** 2016<br>
 Introduction to Information Security ( Short Course) <br>
 
-**Tshwane University Of Technology**  2021<br>
+**Tshwane University Of Technology**  2014<br>
 Computer Systems Engineering (National Dip Pending experiencial Learning 2) <br>
 
 **Diepsloot Combined School** 2010<br>
