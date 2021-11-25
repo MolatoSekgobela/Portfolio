@@ -1,5 +1,5 @@
 # Portfolio
-Self Taught Python Developer aspiring to be a Data Scientist in the field of Data analysis, Machine Learning and Artificial Intelligence,
+Python Developer and Software Engineer aspiring to be a Data Scientist in the field of Data analysis, Machine Learning and Artificial Intelligence.
 
 # Work Experience
 
