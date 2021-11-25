@@ -10,13 +10,18 @@ Web2py User Interface Design (Python, HTML, JSON)
 Network Encryption (Custom VPN) & Data Encryption (PKI)
 Server Configuration<br>
 Network Security/Administration, <br>
-Technical Advisor,<br>
-System Analysis,<br>
-Server Administration,<br>
-Crypto Analysis,<br>
-Signal Processing,<br>
-Radar,<br>
-Cyber Security<br>
+Monitor Database Performance for optimization<br>
+Database Maintenance and Updates<br>
+Data Back up to prevent data loss and for data restoration<br>
+Database migration<br>
+Ensure security measures from unauthorized access<br>
+Ensure Data integrity and non-repudiation<br>
+Monthly data evaluation and reports.<br>
+Ensure Data availability from different users<br>
+Secure network communication<br>
+Manage VPN connection from sub divisions<br>
+Crypto Analysis<br>
+Custom Software Design<br>
 
 
 **Blackstar Communications** <br> 
