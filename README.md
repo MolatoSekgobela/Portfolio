@@ -47,7 +47,8 @@ Passed with Merit<br>
 Email: molato.sekgobela@gmail.com<br>
 Cell: +27659818237/ +27794316198br>
 Gauteng, Pretoria, Montana<br>
-Linkedn: https://www.linkedin.com/in/molato-paul-sekgobela-77b80849/<br>
+Linkedn: https://www.linkedin.com/in/molato-paul-sekgobela-77b80849/ <br>
 
 ### Projects
-Link: https://github.com/spchaane<br>
+Link: https://github.com/MolatoSekgobela <br>
+Link: https://hlabadike.co.za/
